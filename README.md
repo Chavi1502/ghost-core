@@ -1,4 +1,3 @@
-# ghost-core
 # Ghost Core 👻
 
 Invisible Burn-After-Reading Temporary Admin Access for WordPress.
